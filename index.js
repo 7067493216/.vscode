@@ -38,3 +38,6 @@ console.log(b);
 
 var num=100;
 console.log(`half of ${num} is ${num/2}`);
+
+var a="hello"
+console.log(`print ${a} and${a/2}`);
