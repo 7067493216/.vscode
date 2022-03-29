@@ -31,8 +31,7 @@ for(let i=0;i<allFiles.length;i++){
   let ext = path.extname(allFiles[i]);
   console.log(ext);
 }
-
- }
+}
  let srcPath = "\\Users\\Dell\\.vscode\\node\\fileOrganizer\\downloads"
 organize(srcPath);
  
