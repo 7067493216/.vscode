@@ -100,13 +100,13 @@ function copyFileToDest(srcPath, fullPathOfFile, folderName) {
 let srcPath = "C:\\Users\\Dell\\.vscode\\node\\fileOrganizer\\downloads"
 organize(srcPath);
 
-
+/*
 module.exports = {
   organize:organize
 }
 
-
-
+*/ 
+//// 
 
 
 
